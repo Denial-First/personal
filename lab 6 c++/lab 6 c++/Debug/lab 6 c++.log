@@ -1,0 +1,10 @@
+﻿  funcs.cpp
+C:\Users\Денис\source\repos\lab 6 c++\lab 6 c++\funcs.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\lab 6 c++\lab 6 c++\funcs.cpp(86,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\lab 6 c++\lab 6 c++\funcs.cpp(132,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\source\repos\lab 6 c++\lab 6 c++\funcs.cpp(145,22): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+C:\Users\Денис\source\repos\lab 6 c++\lab 6 c++\funcs.cpp(80): warning C4715: operator_check: значение возвращается не при всех путях выполнения
+C:\Users\Денис\source\repos\lab 6 c++\lab 6 c++\funcs.cpp(106): warning C4715: parentheses_check: значение возвращается не при всех путях выполнения
+  lab 6 c++.vcxproj -> C:\Users\Денис\source\repos\lab 6 c++\Debug\lab 6 c++.exe
